@@ -1,5 +1,5 @@
 # python-learning-journal
-A repository to document my Python learning journey!
+_A repository to document my Python learning journey!_
 
 **About Me 👨‍💻:**
 - Hello, my name is Leo and I am exicted to improve my coding skills! 
