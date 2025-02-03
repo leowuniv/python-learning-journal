@@ -7,9 +7,8 @@
 
 Example - Pokemon Class contructed: 
 
-'''
+```python
 class Pokemon:
-  
     def __init__(self, name, ptype, hp, attack, spattack, defense, speed):
         self.name = name
         self.type = ptype
@@ -18,4 +17,4 @@ class Pokemon:
         self.spattack = spattack
         self.defense = defense
         self.speed = speed
-'''
+```
