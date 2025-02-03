@@ -9,6 +9,7 @@ Example - Pokemon Class contructed:
 
 '''
 class Pokemon:
+  
     def __init__(self, name, ptype, hp, attack, spattack, defense, speed):
         self.name = name
         self.type = ptype
