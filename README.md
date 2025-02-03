@@ -13,6 +13,6 @@ A repository to document my Python learning journey!
 
 **My First Python Program 💻:**
 
-'''python
+```
 print("Hello, World!")
-'''
+```
